@@ -1,7 +1,7 @@
 public class HelloWorld {
  
     private String message;
- 
+ //а
     public String getMessage() {
         return message;
     }
