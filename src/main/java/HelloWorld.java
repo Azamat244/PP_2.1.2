@@ -2,6 +2,9 @@ public class HelloWorld {
  
     private String message;
  //а
+    public HelloWorld(){
+
+    }
     public String getMessage() {
         return message;
     }
